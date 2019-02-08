@@ -1,0 +1,6 @@
+The instructions are:
+Press q to quit the game 
+1
+2
+3
+4

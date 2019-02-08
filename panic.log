@@ -1,0 +1,390 @@
+*** FATAL INTERNAL ERROR in Turing ***
+Date: Jan 20 2017 2:16 PM
+
+File Name: C:\Users\vliu\Documents\Open Turing\package\turing.exe
+Version: 1.0.1  [11]
+File Size: 4573696
+File Date: Aug 31 2016 6:44 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Previous Operations:
+    Object Allocated 22 7881
+    Object Freed 7881
+    Object Allocated 22 7882
+    Object Freed 7882
+    Object Allocated 22 7883
+    Object Freed 7883
+    Object Allocated 22 7884
+    Object Freed 7884
+    Object Allocated 22 7885
+    Object Freed 7885
+    Object Allocated 22 7886
+    Object Freed 7886
+    Object Allocated 22 7887
+    Object Freed 7887
+    Object Allocated 22 7888
+    Object Freed 7888
+    Object Allocated 22 7889
+    Object Freed 7889
+    Object Allocated 22 7890
+    Object Freed 7890
+    Object Allocated 22 7891
+    Object Freed 7891
+    Object Allocated 22 7892
+    Object Freed 7892
+    Object Allocated 22 7893
+    Object Freed 7893
+    Object Allocated 22 7894
+    Object Freed 7894
+    Object Allocated 22 7895
+    Object Freed 7895
+    Object Allocated 22 7896
+    Object Freed 7896
+    Object Allocated 22 7897
+    Object Freed 7897
+    Object Allocated 22 7898
+    Object Freed 7898
+    Object Allocated 22 7899
+    Object Freed 7899
+    Object Allocated 22 7900
+    Object Freed 7900
+    Object Allocated 22 7901
+    Object Freed 7901
+    Object Allocated 22 7902
+    Object Freed 7902
+    Object Allocated 22 7903
+    Object Freed 7903
+    Object Allocated 22 7904
+    Object Freed 7904
+    Object Allocated 22 7905
+    Object Freed 7905
+    Object Allocated 22 7906
+    Object Freed 7906
+    Object Allocated 22 7907
+    Object Freed 7907
+    Object Allocated 22 7908
+    Object Freed 7908
+    Object Allocated 22 7909
+    Object Freed 7909
+    Object Allocated 22 7910
+    Object Freed 7910
+    Object Allocated 22 7911
+    Object Freed 7911
+    Object Allocated 22 7912
+    Object Freed 7912
+    Object Allocated 22 7913
+    Object Freed 7913
+    Object Allocated 22 7914
+    Object Freed 7914
+    Object Allocated 22 7915
+    Object Freed 7915
+    Object Allocated 22 7916
+    Object Freed 7916
+    Object Allocated 22 7917
+    Object Freed 7917
+    Object Allocated 22 7918
+    Object Freed 7918
+    Object Allocated 22 7919
+    Object Freed 7919
+    Object Allocated 22 7920
+    Object Freed 7920
+    Object Allocated 22 7921
+    Object Freed 7921
+    Object Allocated 22 7922
+    Object Freed 7922
+    Object Allocated 22 7923
+    Object Freed 7923
+    Object Allocated 22 7924
+    Object Freed 7924
+    Object Allocated 22 7925
+    Object Freed 7925
+    Object Allocated 22 7926
+    Object Freed 7926
+    Object Allocated 22 7927
+    Object Freed 7927
+    Object Allocated 22 7928
+    Object Freed 7928
+    Object Allocated 22 7929
+    Object Freed 7929
+    Object Allocated 22 7930
+    Object Freed 7930
+    Object Allocated 22 7931
+    Object Freed 7931
+    Object Allocated 22 7932
+    Object Freed 7932
+    Object Allocated 22 7933
+    Object Freed 7933
+    Object Allocated 22 7934
+    Object Freed 7934
+    Object Allocated 22 7935
+    Object Freed 7935
+    Object Allocated 22 7936
+    Object Freed 7936
+    Object Allocated 22 7937
+    Object Freed 7937
+    Object Allocated 22 7938
+    Object Freed 7938
+    Object Allocated 22 7939
+    Object Freed 7939
+    Object Allocated 22 7940
+    Object Freed 7940
+    Object Allocated 22 7941
+    Object Freed 7941
+    Object Allocated 22 7942
+    Object Freed 7942
+    Object Allocated 22 7943
+    Object Freed 7943
+    Object Allocated 22 7944
+    Object Freed 7944
+    Object Allocated 22 7945
+    Object Freed 7945
+    Object Allocated 22 7946
+    Object Freed 7946
+    Object Allocated 22 7947
+    Object Freed 7947
+    Object Allocated 22 7948
+    Object Freed 7948
+    Object Allocated 22 7949
+    Object Freed 7949
+    Object Allocated 22 7950
+    Object Freed 7950
+    Object Allocated 22 7951
+    Object Freed 7951
+    Object Allocated 22 7952
+    Object Freed 7952
+    Object Allocated 22 7953
+    Object Freed 7953
+    Object Allocated 22 7954
+    Object Freed 7954
+    Object Allocated 22 7955
+  CMD: WM_INITMENU (W)
+
+
+
+The environment has experienced an unexpected internal error.
+
+This error is caused by a bug in the environment and is not your fault!
+Details about the crash have been saved in the file "D:\ICS3U1_StudentFolder\FinalProject\FPROJ\Bomberman\panic.log".
+
+If possible, please e-mail this file to trishume@me.com
+
+Here are some details about the error:
+   Error = LoadString failed (-572662307) (6002)
+   Windows error = The specified resource name cannot be found in the image file. (1814)
+   File = ..\..\ready\src\edgui.c
+   Line = 1421
+
+All unsaved open files will be saved with a ".sav" or ".sv#" extension.
+
+List of Modules: 
+    C:\Users\vliu\Documents\Open Turing\package\turing.exe
+    C:\WINDOWS\SYSTEM32\ntdll.dll
+    C:\WINDOWS\System32\KERNEL32.DLL
+    C:\WINDOWS\System32\KERNELBASE.dll
+    C:\WINDOWS\System32\USER32.dll
+    C:\WINDOWS\SYSTEM32\OPENGL32.dll
+    C:\WINDOWS\System32\win32u.dll
+    C:\WINDOWS\System32\GDI32.dll
+    C:\WINDOWS\System32\gdi32full.dll
+    C:\WINDOWS\System32\msvcrt.dll
+    C:\WINDOWS\System32\COMDLG32.dll
+    C:\WINDOWS\System32\ADVAPI32.dll
+    C:\WINDOWS\SYSTEM32\VERSION.dll
+    C:\WINDOWS\System32\combase.dll
+    C:\WINDOWS\System32\sechost.dll
+    C:\WINDOWS\System32\ucrtbase.dll
+    C:\WINDOWS\System32\RPCRT4.dll
+    C:\WINDOWS\SYSTEM32\WINMM.dll
+    C:\WINDOWS\System32\SspiCli.dll
+    C:\WINDOWS\System32\CRYPTBASE.dll
+    C:\WINDOWS\System32\bcryptPrimitives.dll
+    C:\WINDOWS\System32\shcore.dll
+    C:\WINDOWS\System32\SHLWAPI.dll
+    C:\WINDOWS\SYSTEM32\WININET.dll
+    C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.14393.447_none_5507ded2cb4f7f4c\COMCTL32.dll
+    C:\WINDOWS\System32\SHELL32.dll
+    C:\WINDOWS\System32\cfgmgr32.dll
+    C:\WINDOWS\System32\windows.storage.dll
+    C:\WINDOWS\System32\powrprof.dll
+    C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+    C:\WINDOWS\System32\kernel.appcore.dll
+    C:\WINDOWS\System32\profapi.dll
+    C:\WINDOWS\SYSTEM32\GLU32.dll
+    C:\WINDOWS\SYSTEM32\DDRAW.dll
+    C:\WINDOWS\SYSTEM32\DCIMAN32.dll
+    C:\WINDOWS\System32\IMM32.DLL
+    C:\WINDOWS\system32\uxtheme.dll
+    C:\WINDOWS\System32\MSCTF.dll
+    C:\WINDOWS\System32\OLEAUT32.dll
+    C:\WINDOWS\System32\msvcp_win.dll
+    C:\WINDOWS\system32\dwmapi.dll
+    C:\WINDOWS\System32\psapi.dll
+    C:\WINDOWS\System32\ws2_32.dll
+    C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.14393.447_none_89c64d28dafea4b9\comctl32.DLL
+    C:\WINDOWS\System32\ole32.dll
+    C:\WINDOWS\System32\clbcatq.dll
+    C:\WINDOWS\system32\propsys.dll
+    C:\Windows\System32\ActXPrxy.dll
+    C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll
+    C:\WINDOWS\SYSTEM32\edputil.dll
+    C:\WINDOWS\SYSTEM32\WindowsCodecs.dll
+    C:\Windows\System32\thumbcache.dll
+    C:\WINDOWS\SYSTEM32\ntshrui.dll
+    C:\WINDOWS\SYSTEM32\srvcli.dll
+    C:\WINDOWS\SYSTEM32\cscapi.dll
+    C:\WINDOWS\System32\StructuredQuery.dll
+    C:\WINDOWS\SYSTEM32\policymanager.dll
+    C:\WINDOWS\SYSTEM32\msvcp110_win.dll
+    C:\WINDOWS\system32\dataexchange.dll
+    C:\WINDOWS\system32\d3d11.dll
+    C:\WINDOWS\system32\dcomp.dll
+    C:\WINDOWS\system32\dxgi.dll
+    C:\WINDOWS\system32\twinapi.appcore.dll
+    C:\WINDOWS\system32\bcrypt.dll
+    C:\WINDOWS\system32\Windows.Storage.Search.dll
+    C:\WINDOWS\SYSTEM32\apphelp.dll
+    C:\Users\vliu\AppData\Local\Microsoft\OneDrive\17.3.6720.1207\FileSyncShell.dll
+    C:\Users\vliu\AppData\Local\Microsoft\OneDrive\17.3.6720.1207\MSVCR120.dll
+    C:\Users\vliu\AppData\Local\Microsoft\OneDrive\17.3.6720.1207\LoggingPlatform.DLL
+    C:\Users\vliu\AppData\Local\Microsoft\OneDrive\17.3.6720.1207\MSVCP120.dll
+    C:\Users\vliu\AppData\Local\Microsoft\OneDrive\17.3.6720.1207\Telemetry.dll
+    C:\Users\vliu\AppData\Local\Microsoft\OneDrive\17.3.6720.1207\ClientTelemetry.dll
+    C:\WINDOWS\SYSTEM32\WSOCK32.dll
+    C:\WINDOWS\SYSTEM32\Cabinet.dll
+    C:\WINDOWS\SYSTEM32\WINHTTP.dll
+    C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+    C:\Program Files (x86)\Microsoft Office\root\Office16\GROOVEEX.DLL
+    C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll
+    C:\WINDOWS\SYSTEM32\MSVCP140.dll
+    C:\WINDOWS\SYSTEM32\msi.dll
+    C:\Program Files (x86)\Microsoft Office\root\Office16\1033\GrooveIntlResource.dll
+    C:\WINDOWS\system32\mssprxy.dll
+    C:\WINDOWS\SYSTEM32\DINPUT.DLL
+    C:\WINDOWS\SYSTEM32\HID.DLL
+    C:\WINDOWS\System32\SETUPAPI.DLL
+    C:\WINDOWS\SYSTEM32\DEVOBJ.dll
+    C:\WINDOWS\System32\WINTRUST.dll
+    C:\WINDOWS\System32\MSASN1.dll
+    C:\WINDOWS\System32\CRYPT32.dll
+    C:\WINDOWS\SYSTEM32\MMDevAPI.DLL
+    C:\WINDOWS\SYSTEM32\wdmaud.drv
+    C:\WINDOWS\SYSTEM32\ksuser.dll
+    C:\WINDOWS\SYSTEM32\AVRT.dll
+    C:\WINDOWS\SYSTEM32\AUDIOSES.DLL
+    C:\WINDOWS\SYSTEM32\wintypes.dll
+    C:\WINDOWS\SYSTEM32\msacm32.drv
+    C:\WINDOWS\SYSTEM32\MSACM32.dll
+    C:\WINDOWS\SYSTEM32\midimap.dll
+    C:\WINDOWS\SYSTEM32\dbghelp.dll
+
+  0 .V PC=0023:77c7e5fc Ret=75b3ad52 Frame=001986bc Stack=0019864c
+    Parameters (0x000008a0 0x00003a98 0x00000000 0x0019af58)
+    Unknown module, ZwWaitForSingleObject() + 0012 byte(s)
+  1 .V PC=0023:75b3ad52 Ret=0044d1ae Frame=001986d0 Stack=001986c4
+    Parameters (0x000008a0 0x00003a98 0x747e2c10 0xdddddddd)
+    Unknown module, WaitForSingleObject() + 0018 byte(s)
+  2 .V PC=0023:0044d1ae Ret=0044d207 Frame=0019af58 Stack=001986d8
+    Parameters (0x00000001 0x00001772 0x00535964 0x0000058d)
+    x:\openturing\ready\src\edfail.c, MyFailErrorBox (), Line 0992+0000 byte(s)
+  3 .V PC=0023:0044d207 Ret=0044788d Frame=0019af74 Stack=0019af60
+    Parameters (0x00001772 0x00535964 0x0000058d 0x00000716)
+    x:\openturing\ready\src\edfail.c, EdFail_Fatal (), Line 0494+0036 byte(s)
+  4 .V PC=0023:0044788d Ret=0043d4d7 Frame=0019af94 Stack=0019af7c
+    Parameters (0xdddddddd 0x0019b588 0x00000050 0x028906cf)
+    x:\openturing\ready\src\edgui.c, EdGUI_LoadString (), Line 1422+0028 byte(s)
+  5 .V PC=0023:0043d4d7 Ret=0043fa73 Frame=0019b62c Stack=0019af9c
+    Parameters (0x001105ec 0x00000000 0x005340d0 0x00000000)
+    x:\openturing\ready\src\edwin.c, MyMenusAdjust (), Line 2718+0013 byte(s)
+  6 .V PC=0023:0043fa73 Ret=747ed2b3 Frame=0019b64c Stack=0019b634
+    Parameters (0x001105ec 0x00000116 0x028906cf 0x00000000)
+    x:\openturing\ready\src\edwin.c, MyEditorWindowProcedure (), Line 1559+0006 byte(s)
+  7 .V PC=0023:747ed2b3 Ret=747ce88a Frame=0019b678 Stack=0019b654
+    Parameters (0x0043f7c0 0x001105ec 0x00000116 0x028906cf)
+    Unknown module, SetManipulationInputTarget() + 0083 byte(s)
+  8 .V PC=0023:747ce88a Ret=747ce4c0 Frame=0019b760 Stack=0019b680
+    Parameters (0x0043f7c0 0x00000000 0x00000116 0x028906cf)
+    Unknown module, DispatchMessageW() + 2298 byte(s)
+  9 .V PC=0023:747ce4c0 Ret=747d8b09 Frame=0019b7c0 Stack=0019b768
+    Parameters (0x01384bb0 0x00000000 0x00000116 0x028906cf)
+    Unknown module, DispatchMessageW() + 1328 byte(s)
+ 10 .V PC=0023:747d8b09 Ret=77c808c6 Frame=0019b800 Stack=0019b7c8
+    Parameters (0x0019b81c 0x00000020 0x0019f3a4 0x77c80810)
+    Unknown module, MsgWaitForMultipleObjectsEx() + 0777 byte(s)
+ 11 .V PC=0023:77c808c6 Ret=0043b2b4 Frame=0019b85c Stack=0019b808
+    Parameters (0x001105ec 0x001e0839 0x0019b87c 0x00060710)
+    Unknown module, KiUserCallbackDispatcher() + 0054 byte(s)
+ 12 .V PC=0023:0043b2b4 Ret=00444e0b Frame=0019b898 Stack=0019b864
+    Parameters (0x00000000 0x00000000 0x00060710 0x00000001)
+    x:\openturing\ready\src\ed.c, Ed_ProcessWaitingEvents (), Line 1055+0030 byte(s)
+ 13 .V PC=0023:00444e0b Ret=00453ea5 Frame=0019edf4 Stack=0019b8a0
+    Parameters (0x00060710 0x00529988 0x00000000 0x00000000)
+    x:\openturing\turing\src\edrun.c, EdRun_Execute (), Line 1057+0031 byte(s)
+ 14 .V PC=0023:00453ea5 Ret=00455af8 Frame=0019ee20 Stack=0019edfc
+    Parameters (0x00060710 0x00000001 0x00000000 0x00000000)
+    x:\openturing\ready\src\eddisp.c, EdDisp_Run (), Line 1811+0021 byte(s)
+ 15 .V PC=0023:00455af8 Ret=0045671e Frame=0019f254 Stack=0019ee28
+    Parameters (0x00000111 0x00060710 0x00000001 0x0019f2c8)
+    x:\openturing\ready\src\eddisp.c, MyCommandHandler (), Line 3295+0012 byte(s)
+ 16 .V PC=0023:0045671e Ret=00457104 Frame=0019f284 Stack=0019f25c
+    Parameters (0x00060710 0x0019f2b4 0x00000001 0x00010579)
+    x:\openturing\ready\src\eddisp.c, MyCommonMessageHandler (), Line 3494+0007 byte(s)
+ 17 .V PC=0023:00457104 Ret=747ed2b3 Frame=0019f2a0 Stack=0019f28c
+    Parameters (0x00060710 0x00000111 0x00010579 0x00000000)
+    x:\openturing\ready\src\eddisp.c, MyTextDisplayWindowProcedure (), Line 1968+0024 byte(s)
+ 18 .V PC=0023:747ed2b3 Ret=747ce88a Frame=0019f2cc Stack=0019f2a8
+    Parameters (0x004570c0 0x00060710 0x00000111 0x00010579)
+    Unknown module, SetManipulationInputTarget() + 0083 byte(s)
+ 19 .V PC=0023:747ce88a Ret=747f764b Frame=0019f3b4 Stack=0019f2d4
+    Parameters (0x004570c0 0x00000000 0x00000111 0x00010579)
+    Unknown module, DispatchMessageW() + 2298 byte(s)
+ 20 .V PC=0023:747f764b Ret=747db8e3 Frame=0019f424 Stack=0019f3bc
+    Parameters (0x013d4180 0x00000000 0x00000001 0x00000001)
+    Unknown module, EndTask() + 33003 byte(s)
+ 21 .V PC=0023:747db8e3 Ret=0043fa01 Frame=0019f448 Stack=0019f42c
+    Parameters (0x00060710 0x00000111 0x00010579 0x00000001)
+    Unknown module, SendMessageA() + 0131 byte(s)
+ 22 .V PC=0023:0043fa01 Ret=747ed2b3 Frame=0019f46c Stack=0019f450
+    Parameters (0x00060808 0x00000111 0x00010579 0x00000000)
+    x:\openturing\ready\src\edwin.c, MyEditorWindowProcedure (), Line 1505+0029 byte(s)
+ 23 .V PC=0023:747ed2b3 Ret=747ce88a Frame=0019f498 Stack=0019f474
+    Parameters (0x0043f7c0 0x00060808 0x00000111 0x00010579)
+    Unknown module, SetManipulationInputTarget() + 0083 byte(s)
+ 24 .V PC=0023:747ce88a Ret=747ce4c0 Frame=0019f580 Stack=0019f4a0
+    Parameters (0x0043f7c0 0x00000000 0x00000111 0x00010579)
+    Unknown module, DispatchMessageW() + 2298 byte(s)
+ 25 .V PC=0023:747ce4c0 Ret=747d8b09 Frame=0019f5e0 Stack=0019f588
+    Parameters (0x013a9960 0x00000000 0x00000111 0x00010579)
+    Unknown module, DispatchMessageW() + 1328 byte(s)
+ 26 .V PC=0023:747d8b09 Ret=77c808c6 Frame=0019f620 Stack=0019f5e8
+    Parameters (0x0019f63c 0x00000020 0x0019ff68 0x77c80810)
+    Unknown module, MsgWaitForMultipleObjectsEx() + 0777 byte(s)
+ 27 .V PC=0023:77c808c6 Ret=0043b4be Frame=0019f678 Stack=0019f628
+    Parameters (0x00060808 0x001e0839 0x0019f698 0x00000001)
+    Unknown module, KiUserCallbackDispatcher() + 0054 byte(s)
+ 28 .V PC=0023:0043b4be Ret=0043b93d Frame=0019f6b4 Stack=0019f680
+    Parameters (0x00401000 0x00401000 0x002cc000 0x02901038)
+    x:\openturing\ready\src\ed.c, MyProcessEvents (), Line 1897+0030 byte(s)
+ 29 .V PC=0023:0043b93d Ret=00401162 Frame=0019fed8 Stack=0019f6bc
+    Parameters (0x00400000 0x00000000 0x00a03951 0x00000001)
+    x:\openturing\ready\src\ed.c, WinMain (), Line 0506+0005 byte(s)
+ 30 .V PC=0023:00401162 Ret=0040100f Frame=0019ff78 Stack=0019fee0
+    Parameters (0x0019ff94 0x749b62c4 0x002cc000 0x749b62a0)
+    f:\dd\vctools\crt_bld\self_x86\crt\src\crt0.c, __tmainCRTStartup (), Line 0275+0044 byte(s)
+ 31 .V PC=0023:0040100f Ret=749b62c4 Frame=0019ff80 Stack=0019ff80
+    Parameters (0x002cc000 0x749b62a0 0xf7cf59c1 0x0019ffdc)
+    f:\dd\vctools\crt_bld\self_x86\crt\src\crt0.c, WinMainCRTStartup (), Line 0189+0000 byte(s)
+ 32 .V PC=0023:749b62c4 Ret=77c70fd9 Frame=0019ff94 Stack=0019ff88
+    Parameters (0x002cc000 0x15ddd99e 0x00000000 0x00000000)
+    Unknown module, BaseThreadInitThunk() + 0036 byte(s)
+ 33 .V PC=0023:77c70fd9 Ret=77c70fa4 Frame=0019ffdc Stack=0019ff9c
+    Parameters (0xffffffff 0x77c92ef6 0x00000000 0x00000000)
+    Unknown module, RtlSubscribeWnfStateChangeNotification() + 1081 byte(s)
+ 34 .V PC=0023:77c70fa4 Ret=00000000 Frame=0019ffec Stack=0019ffe4
+    Parameters (0x00401000 0x002cc000 0x00000000 0x78746341)
+    Unknown module, RtlSubscribeWnfStateChangeNotification() + 1028 byte(s)
+
+
+------------------------------------------------------
